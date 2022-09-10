@@ -6,7 +6,8 @@
     "dist"
   ],
   "scripts": {
-    "generate": "rm -rf dist && npx tsc"
+    "generate": "rm -rf dist && npx tsc",
+    "generate-zip": "npm run generate && zip -r leedcode-solutions dist"
   },
   "repository": {
     "type": "git",
