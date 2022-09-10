@@ -1,0 +1,25 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "A small sets of leet code prblms in typescript.",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "generate": "rm -rf dist && npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManikandanH/leetcode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "ts-leetcode"
+  ],
+  "author": "Manikandan Arjunan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManikandanH/leetcode/issues"
+  },
+  "homepage": "https://github.com/ManikandanH/leetcode#readme"
+}
