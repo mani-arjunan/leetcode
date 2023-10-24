@@ -2,7 +2,7 @@
 A set of leetcode prblms
 
 ## npm run generate
-To generate a set of js files from TS.(works only on unix cmds)
+To generate a set of js files from TS.(WINDOWS users stay the FAway)
 
 ## npm run generate-zip
-To generate a zip file with all the js files.(works only on unix cmds)
+To generate a zip file with all the js files.(WINDOWS users stay the FAway)
