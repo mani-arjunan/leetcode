@@ -1,5 +1,5 @@
 # leetcode
-A set of leetcode prblms
+A set of leetcode grinds that i solved(conquered) 
 
 ## npm run generate
 To generate a set of js files from TS.(WINDOWS users stay the FAway)
